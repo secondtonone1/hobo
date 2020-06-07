@@ -1,2 +1,13 @@
 2020/05/24 15:04:46.696 [D] [service.go:74]  beego log: simple service1 oninit success
 2020/06/06 13:30:14.629 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/06 13:59:12.921 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/06 14:00:12.390 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/06 14:00:12.392 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/06 14:01:52.676 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/06 14:01:52.677 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/06 14:34:37.700 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/06 14:34:37.702 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/06 14:35:45.409 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/06 14:35:45.411 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/06 14:36:29.595 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/06 14:36:29.598 [D] [service.go:74]  beego log: simple service1 oninit success
