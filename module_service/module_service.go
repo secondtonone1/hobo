@@ -3,7 +3,6 @@ package module_service
 import (
 	"fmt"
 	"sync"
-	"time"
 
 	"github.com/duanhf2012/origin/node"
 	"github.com/duanhf2012/origin/service"
@@ -45,24 +44,18 @@ func (slf *Module2) OnRelease() {
 }
 
 func (slf *Module_Service) OnInit() error {
-	fmt.Printf("TestService1 OnInit.\n")
-	//打开性能分析工具
-	slf.OpenProfiler()
-	//监控超过1秒的慢处理
-	slf.GetProfiler().SetOverTime(time.Second * 1)
-	//监控超过10秒的超慢处理，您可以用它来定位是否存在死循环
-	//比如以下设置10秒，我的应用中是不会发生超过10秒的一次函数调用
-	//所以设置为10秒。
-	slf.GetProfiler().SetMaxOverTime(time.Second * 10)
+	fmt.Printf("Module_Service OnInit.\n")
+	//新建两个Module对象
+	module1 := &Module1{}
+	module2 := &Module2{}
+	//将module1添加到服务中
+	module1Id, _ := slf.AddModule(module1)
+	//在module1中添加module2模块
+	module1.AddModule(module2)
+	fmt.Printf("module1 id is %d, module2 id is %d", module1Id, module2.GetModuleId())
 
-	slf.AfterFunc(time.Second*2, slf.Loop)
-	//打开多线程处理模式，10个协程并发处理
-	//slf.SetGoRouterNum(10)
+	//释放模块module1
+	slf.ReleaseModule(module1Id)
+	fmt.Printf("xxxxxxxxxxx")
 	return nil
-}
-
-func (slf *Profile_Service) Loop() {
-	for {
-		time.Sleep(time.Second * 1)
-	}
 }

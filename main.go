@@ -1,6 +1,7 @@
 package main
 
 import (
+	_ "hobo/module_service"
 	_ "hobo/mulgo_service"
 	_ "hobo/profile_service"
 	_ "hobo/simple_service"
