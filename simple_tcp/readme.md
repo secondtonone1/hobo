@@ -1,0 +1,4 @@
+## TCP配置
+tcpservice也要配置在cluser.json中，同样自己的testtcpservice服务也要配置。
+在simple_tcp中设置两个服务，先设置系统的，再设置自己的
+在main包中引用simple_service

@@ -1,0 +1,3 @@
+## 当实现http服务的service时
+当实现http服务的service时，需要将系统的httpservice 设置进入node，顺序不要错，先设置系统的，再设置自己实现的。
+其次cluser.json的serviceList中要添加系统的httpservice以及自己实现的httpservice

@@ -15,3 +15,115 @@
 2020/06/09 19:50:14.715 [D] [service.go:74]  beego log: simple service1 oninit success
 2020/06/09 19:58:01.075 [D] [service.go:74]  beego log: mulgo service oninit success
 2020/06/09 19:58:01.077 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 11:29:48.666 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 11:29:48.668 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 14:09:30.726 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 14:09:30.726 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 14:33:18.640 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 14:33:18.646 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 14:35:36.442 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 14:35:36.447 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 14:43:28.928 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 14:44:53.766 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 14:44:53.766 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:01:15.430 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:01:15.433 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:06:50.120 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:06:50.123 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:16:37.426 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:16:37.436 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:26:10.660 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:26:10.701 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:30:53.126 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:30:53.131 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:36:15.453 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:36:15.457 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 15:43:30.331 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 15:43:30.361 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:19:02.235 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:19:02.237 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:19:02.240 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:19:04.238 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 17:22:14.886 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:22:14.889 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:22:14.890 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:22:14.892 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:22:16.900 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 17:24:35.216 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:24:35.217 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:24:35.219 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:24:35.222 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:24:37.227 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 17:32:27.267 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:32:27.268 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:32:27.272 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:34:08.522 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:34:08.524 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:34:08.531 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:37:09.301 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:37:09.302 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:37:09.305 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:41:34.909 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:41:34.910 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:41:34.914 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:43:05.588 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:43:05.589 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:43:05.592 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:43:51.428 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:43:51.429 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:43:51.434 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:43:53.437 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 17:52:19.342 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:52:19.346 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:52:19.351 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:52:21.350 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 17:56:19.283 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:56:19.283 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:56:19.291 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:56:21.291 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 17:59:48.998 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 17:59:48.998 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 17:59:49.002 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 17:59:51.062 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 18:03:17.908 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:03:17.908 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:03:17.915 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:03:19.914 [D] [module.go:182]  sync call Simple_RPC.RPC_StrJoin success, output is {}
+2020/06/10 18:04:06.915 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:04:06.916 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:04:06.919 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:10:52.580 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:10:52.580 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:10:52.585 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:36:50.169 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:36:50.169 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:36:50.176 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:43:08.828 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:43:08.829 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:43:08.836 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:45:12.189 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:45:12.190 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:45:12.194 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:47:51.884 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:47:51.885 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:47:51.896 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 18:51:59.086 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 18:51:59.088 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 18:51:59.093 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 19:11:39.680 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 19:11:39.681 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 19:11:39.684 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 19:25:38.752 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 19:25:38.753 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 19:27:29.884 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 19:27:29.885 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 19:27:29.890 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 19:29:21.936 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 19:29:21.937 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 19:29:21.940 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 19:46:13.861 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 19:46:13.862 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 19:46:13.867 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/10 19:47:24.209 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/10 19:47:24.211 [D] [service.go:74]  Simple_RPC service init success
+2020/06/10 19:47:24.216 [D] [service.go:74]  beego log: simple service1 oninit success

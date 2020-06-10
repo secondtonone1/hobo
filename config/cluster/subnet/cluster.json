@@ -5,7 +5,10 @@
           "ListenAddr":"127.0.0.1:8001",
           "NodeName": "Node_Test1",
 		      "remark":"//以_打头的，表示只在本机进程，不对整个子网开发",
-          "ServiceList": ["Simple_Service1","Simple_Service2","MulGo_Service","Module_Service"]
+          "ServiceList": ["Simple_Service1","Simple_Service2","Module_Service","MulGo_Service",
+                            "TestService5", "TestService4","Event_Service1","Event_Service2",
+                            "Simple_RPC","RPC_Call","TestHttpService","HttpService",
+                            "TcpService","TestTcpService"]
         }
     ]
 }
