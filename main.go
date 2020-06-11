@@ -1,18 +1,18 @@
 package main
 
 import (
-	_ "hobo/event_service"
-	_ "hobo/module_service"
-	_ "hobo/mulgo_service"
-	_ "hobo/profile_service"
-	_ "hobo/rpc_service"
-	_ "hobo/simple_event"
-	_ "hobo/simple_http"
-	_ "hobo/simple_service"
-	_ "hobo/simple_tcp"
+	_ "github.com/secondtonone1/hobo/event_service"
+	_ "github.com/secondtonone1/hobo/module_service"
+	_ "github.com/secondtonone1/hobo/mulgo_service"
+	_ "github.com/secondtonone1/hobo/profile_service"
+	_ "github.com/secondtonone1/hobo/rpc_service"
+	_ "github.com/secondtonone1/hobo/simple_event"
+	_ "github.com/secondtonone1/hobo/simple_http"
+	_ "github.com/secondtonone1/hobo/simple_service"
+	_ "github.com/secondtonone1/hobo/simple_tcp"
 	"time"
 
-	_ "hobo/components"
+	_ "github.com/secondtonone1/hobo/components"
 
 	node "github.com/duanhf2012/origin/node"
 )
