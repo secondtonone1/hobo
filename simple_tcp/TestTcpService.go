@@ -2,7 +2,7 @@ package simple_tcp
 
 import (
 	"fmt"
-	"github.com/secondtonone1/hobo/simple_tcp/msgpb"
+	"hobo/simple_tcp/msgpb"
 
 	"github.com/duanhf2012/origin/network/processor"
 	"github.com/duanhf2012/origin/node"

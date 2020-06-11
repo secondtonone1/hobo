@@ -17,5 +17,5 @@ profile_service文件夹下profile_service.go设置了性能检测
 module_service文件夹下module_service.go 向一个service中加入多个module
 
 ## 如何启动
-go build github.com/secondtonone1/hobo/main.go 生成main可执行文件
+go build hobo/main.go 生成main可执行文件
 main start nodeid=1 即可启动节点1

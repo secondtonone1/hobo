@@ -130,3 +130,6 @@
 2020/06/11 16:16:08.811 [D] [service.go:74]  beego log: mulgo service oninit success
 2020/06/11 16:16:08.811 [D] [service.go:74]  Simple_RPC service init success
 2020/06/11 16:16:08.815 [D] [service.go:74]  beego log: simple service1 oninit success
+2020/06/11 16:46:25.252 [D] [service.go:74]  beego log: mulgo service oninit success
+2020/06/11 16:46:25.253 [D] [service.go:74]  Simple_RPC service init success
+2020/06/11 16:46:25.258 [D] [service.go:74]  beego log: simple service1 oninit success
